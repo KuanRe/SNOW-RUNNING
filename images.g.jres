@@ -1,0 +1,14 @@
+{
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDBlMDAxMDAwMDMwMDAwMDAwMDAwMDAwMDAwZjBmZmYwZmZmZjAwMDBmZmZmY2ZjY2ZjMGYwMGZmZmZjYmNjY2NmYzAwZmZjZmMzY2NjY2ZjMDBmMDMzY2NjY2NjY2MwZmYwZmZjY2NjNGNjYzBmZjBmZmNmY2M0NGZjMGZmMDRmZjRmYjQ0ZmYwZmYwNGY0ZGYxZGRmYzAwMDBmZjRmZGRkZDBmMDAwMGQ0ZWQ0NGU0MGYwMDAwZGVlZDMzMzMwZjAwMDBlZmZlNjY2NmZmMDAwMGZmZmZmZmZmZmYwMDAwZjAwZjAwZmYwZjAwMDAwMDAwMDAwMDAwMDBmMGZmZjBmZmZmMDAwMGZmZmZjZmNjZmMwZjAwZmZmZmNiY2NjY2ZjMDBmZmNmYzNjY2NjZmMwMGYwMzNjY2NjY2NjYzBmZjBmZmNjY2M0Y2NjMGZmMGZmY2ZjYzQ0ZmMwZmYwNGZmNGZiNDRmZjBmMDA0ZjRkZjFkZGZmMDAwMGZmZWZkZWRkMGYwMDAwZjBkNGVkZTQwZjAwMDBmMGRlZWQzMzBmMDAwMGZmZWZmZTY2ZmYwMDAwZmZmZmZmZmZmZjAwMDBmMDBmMDBmZjBmMDBmMGZmZjBmZmZmMDAwMGZmZmZjZmNjZmMwZjAwZmZmZmNiY2NjY2ZjMDBmZmNmYzNjY2NjZmMwMGYwMzNjY2NjY2NjYzBmZjBmZmNjY2M0Y2NjMGZmMGZmY2ZjYzQ0ZmUwZmYwNGZmNGZiNDRmZTBmMDA0ZjRkZjFkZGZmMDAwMGZmNGZkZGRkMGYwMDAwZjBlZTQ0ZTQwZjAwMDA0MGRkM2UzMzBmMDAwMGUwZGQzZTMzMGYwMDAwZjBlZTZmNjYwZjAwMDAwMGZmZmZmZjAwMDAwMDAwZjBmZjAwMDAwMA==",
+        "displayName": "villager1WalkRight"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
